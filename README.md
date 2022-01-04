@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning PHP and algortihms
+- 🌱 I’m currently learning PHP and algorithms
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
