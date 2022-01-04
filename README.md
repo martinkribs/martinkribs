@@ -31,6 +31,10 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/Wolfkrieger/github-slideshow/pull/8) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
+2. 🎉 Merged PR [#7](https://github.com/Wolfkrieger/github-slideshow/pull/7) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
+3. 🎉 Merged PR [#6](https://github.com/Wolfkrieger/github-slideshow/pull/6) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
+4. 🎉 Merged PR [#3](https://github.com/Wolfkrieger/github-slideshow/pull/3) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
   <!--END_SECTION:activity-->
 </details>
 
