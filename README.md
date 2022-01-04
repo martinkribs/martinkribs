@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning PHP and algorithms
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love to play computergames
 
 ---
 
