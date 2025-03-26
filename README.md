@@ -28,15 +28,16 @@
 
 ---
 
-:zap: GitHub Stats
+### Stats:
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=martinkribs&theme=dark&show_icons=true">
-    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=martinkribs&show_icons=true">
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&theme=dark&layout=compact">
-    <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&layout=compact" />
-</picture>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=martinkribs&theme=dark&show_icons=true&hide_border=true">
+        <img width="54%" src="https://github-readme-stats.vercel.app/api?username=martinkribs&show_icons=true&hide_border=true">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&theme=dark&layout=compact&hide_border=true">
+        <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&layout=compact&hide_border=true">
+    </picture>
+</div>
 
