@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning PHP and algorithms
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning about AI and algorithms
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play computergames
 
 ---
@@ -28,19 +28,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Wolfkrieger/github-slideshow/pull/8) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
-2. 🎉 Merged PR [#7](https://github.com/Wolfkrieger/github-slideshow/pull/7) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
-3. 🎉 Merged PR [#6](https://github.com/Wolfkrieger/github-slideshow/pull/6) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
-4. 🎉 Merged PR [#3](https://github.com/Wolfkrieger/github-slideshow/pull/3) in [Wolfkrieger/github-slideshow](https://github.com/Wolfkrieger/github-slideshow)
-<!--END_SECTION:activity-->
-</details>
+:zap: GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=martinkribs&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=martinkribs&show_icons=true&hide_border=true" />
-
-</details>
