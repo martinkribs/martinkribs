@@ -1,6 +1,6 @@
 ### Hi there, I'm Martin 👋 
 
-## I'm a Student and Developer!!
+## I'm a Student and Developer
 
 - 🌱 I’m currently learning about AI and algorithms
 - 🥅 Goals: Contribute more to Open Source projects
@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](#)
-[<img align="left" alt="PHP"                  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" />](#)
+[<img align="left" alt="PHP"                  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](#)
 [<img align="left" alt="HTML5"                width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
 [<img align="left" alt="CSS3"                 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#)
 [<img align="left" alt="Sass"                 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](#)
@@ -30,5 +30,13 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=martinkribs&show_icons=true&hide_border=true" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=martinkribs&theme=dark&show_icons=true">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=martinkribs&show_icons=true">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&theme=dark">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs" />
+</picture>
 
