@@ -36,7 +36,7 @@
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&theme=dark">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&theme=dark&layout=compact">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkribs&layout=compact" />
 </picture>
 
